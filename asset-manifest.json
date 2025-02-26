@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/think-waffle/static/css/main.d503c967.css",
+    "main.js": "/think-waffle/static/js/main.6eb6b747.js",
+    "static/js/453.a866b3b4.chunk.js": "/think-waffle/static/js/453.a866b3b4.chunk.js",
+    "index.html": "/think-waffle/index.html",
+    "main.d503c967.css.map": "/think-waffle/static/css/main.d503c967.css.map",
+    "main.6eb6b747.js.map": "/think-waffle/static/js/main.6eb6b747.js.map",
+    "453.a866b3b4.chunk.js.map": "/think-waffle/static/js/453.a866b3b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d503c967.css",
+    "static/js/main.6eb6b747.js"
+  ]
+}
