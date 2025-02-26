@@ -1,10 +1,6 @@
 import React from 'react';
 import AppBar from '@mui/material/AppBar';
-import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
-import Box from '@mui/material/Box';
-import WaffleIcon from './WaffleIcon';
-import { fontFamily, fontSize, fontWeight } from '@mui/system';
 
 const AppBarComponent = () => {
     const styles = {
@@ -38,7 +34,7 @@ const AppBarComponent = () => {
                 <Typography style={styles.menuItem}>About Us</Typography>
                 <Typography style={styles.menuItem}>Menu</Typography>
                 <div style={{ flex: 1 }}>
-                    <img src={"/Assets/Images/logo.png"} alt="Logo" style={styles.logo} />
+                    <img src={"/think-waffle/Assets/Images/logo.png"} alt="Logo" style={styles.logo} />
                     <Typography style={styles.menuItem}>Order Now</Typography>
                 </div>
                 <Typography style={styles.menuItem}>Order</Typography>

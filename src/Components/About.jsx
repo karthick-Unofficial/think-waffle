@@ -5,7 +5,7 @@ const About = () => {
     return (
         <>
             <div style={{}}>
-                <Box component="video" src={"/Assets/Videos/promo.mp4"} width="100%" autoPlay loop muted />
+                <Box component="video" src={"think-waffle/Assets/Videos/promo.mp4"} width="100%" autoPlay loop muted />
             </div>
             <div style={{ display: "flex", alignItems: "flex-start", padding: 10, background: "#ffedcd" }}>
                 <div style={{ width: "50%", fontFamily: "Ephesis" }}>
@@ -18,7 +18,7 @@ const About = () => {
                     </p>
                 </div >
                 <div style={{ width: "50%" }}>
-                    <img src={"/Assets/Images/about_kicker_image.avif"} alt="About" style={{ width: "100%" }} />
+                    <img src={"think-waffle/Assets/Images/about_kicker_image.avif"} alt="About" style={{ width: "100%" }} />
                 </div>
             </div >
         </>
